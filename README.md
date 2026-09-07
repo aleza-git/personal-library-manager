@@ -11,8 +11,7 @@ Books can be added with their title, author, genre, rating, and reading status. 
 ## Preview
 
 <p align="center">
-  <img src="assets/library 1.png" width="430">
-  <img src="assets/library 2.png" width="430">
+  <img src="personal-library-manager.png" width="430">
 </p>
 
 ## Features
@@ -79,10 +78,7 @@ Run:
     │
     ├── personal_library.py
     ├── README.md
-    │
-    └── assets/
-        ├── library 1.png
-        └── library 2.png
+    ├── personal-library-manager.png
 
 ## Goal
 
